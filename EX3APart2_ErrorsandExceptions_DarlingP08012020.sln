@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX3APart2_ErrorsandExceptions_DarlingP08012020", "EX3APart2_ErrorsandExceptions_DarlingP08012020\EX3APart2_ErrorsandExceptions_DarlingP08012020.csproj", "{CF890B9B-FD64-499F-888F-0F1FE546C8C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF890B9B-FD64-499F-888F-0F1FE546C8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF890B9B-FD64-499F-888F-0F1FE546C8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF890B9B-FD64-499F-888F-0F1FE546C8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF890B9B-FD64-499F-888F-0F1FE546C8C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D05DF69D-D765-41A9-94DA-6766E412EB79}
+	EndGlobalSection
+EndGlobal
